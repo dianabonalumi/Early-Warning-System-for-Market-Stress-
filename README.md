@@ -3,7 +3,7 @@
 Replication of a multi-asset target index using a basket of liquid futures, comparing linear models, a Kalman filter and a neural network under realistic portfolio constraints.
 
 > Course project, *Fintech* — Politecnico di Milano (Business Case 3).
-> **Team / my contribution:** _TODO: list the team members and describe your own part._
+
 
 ## Problem
 
